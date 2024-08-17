@@ -84,6 +84,6 @@ If you'd like to contribute, please fork the repository and use a feature branch
 Distributed under the MIT License. See `LICENSE` for more information.
 
 **Contact**
-Your Name - shaukatali28122001@gmail.com
+Your Name - sakibalig2003@gmail.com
 
 Project Link: https://news8122.vercel.app
